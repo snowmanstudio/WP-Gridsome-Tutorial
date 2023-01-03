@@ -10,7 +10,7 @@ module.exports = {
     {
       use: 'gridsome-source-graphql',
       options: {
-        url: 'https://dev.cunisinc.com/graphql',
+        url: 'https://freehub.online/graphql',
         fieldName: 'wp',
         typeName: 'wpTypes',
       },
